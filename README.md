@@ -22,5 +22,5 @@ can say more effectively than us. By making this project, I realized that the co
 10. It can tell you jokes.
 11. It can search anything from google.
 12. It can have some basic conversation
-13. 3. It can play music.
+13. It can play music.
 
