@@ -10,10 +10,9 @@ opening your favourite IDE with the help of a single voice command. In the curre
 can say more effectively than us. By making this project, I realized that the concept of AI in every day.
 
 -----------Functionalities of this project include:--------------
-It can load intro of Oneself
-1. It can send text on WhatsApp.
-2. It can open command prompt, your favourite IDE, notepad, Camera.
-3. It can play music.
+1. It can load intro of Oneself
+2. It can send text on WhatsApp.
+3. It can open command prompt, your favourite IDE, notepad, Camera.
 4. It can do Wikipedia searches for you.
 5. It can open websites like Google, YouTube, etc., in a web browser.
 6. It can tell the current time.
@@ -23,4 +22,5 @@ It can load intro of Oneself
 10. It can tell you jokes.
 11. It can search anything from google.
 12. It can have some basic conversation
+13. 3. It can play music.
 
